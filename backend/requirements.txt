@@ -1,0 +1,10 @@
+# backend/requirements.txt
+
+fastapi
+uvicorn
+transformers
+torch
+nest_asyncio
+aiofiles
+python-multipart
+requests
